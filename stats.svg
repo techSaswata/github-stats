@@ -8,15 +8,11 @@
   
   <rect width="1000" height="320" fill="#0d1117" rx="10"/>
   
-  <text x="500" y="35" fill="url(#grad)" font-size="24" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">
-    📊 GitHub Statistics
-  </text>
-  
   <text x="50" y="80" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
-    🎯 Contributions: <tspan fill="#58a6ff" font-weight="bold">1309</tspan>
+    🎯 Contributions: <tspan fill="#58a6ff" font-weight="bold">1316</tspan>
   </text>
   <text x="50" y="105" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
-    💻 Commits: <tspan fill="#58a6ff" font-weight="bold">612</tspan>
+    💻 Commits: <tspan fill="#58a6ff" font-weight="bold">619</tspan>
   </text>
   <text x="50" y="130" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     🔀 PRs: <tspan fill="#58a6ff" font-weight="bold">37</tspan>
