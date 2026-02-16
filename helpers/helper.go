@@ -30,6 +30,9 @@ func ProcessLanguageStats(stats *UserStats) []LanguageStat {
 	for _, repo := range stats.User.Repositories.Nodes {
 		for _, edge := range repo.Languages.Edges {
 			name := edge.Node.Name
+			if strings.EqualFold(name, "HTML") {
+				continue
+			}
 			if _, exists := languageMap[name]; !exists {
 				languageMap[name] = &LanguageStat{
 					Name:  name,
