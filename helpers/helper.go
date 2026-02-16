@@ -83,10 +83,6 @@ func GenerateSVG(stats *UserStats, languages []LanguageStat) string {
   </defs>
   
   <rect width="1000" height="320" fill="#0d1117" rx="10"/>
-  
-  <text x="500" y="35" fill="url(#grad)" font-size="24" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">
-    📊 GitHub Statistics
-  </text>
   `)
 
 	sb.WriteString(fmt.Sprintf(`
