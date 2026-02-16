@@ -86,22 +86,22 @@ func GenerateSVG(stats *UserStats, languages []LanguageStat) string {
   `)
 
 	sb.WriteString(fmt.Sprintf(`
-  <text x="50" y="80" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
+  <text x="50" y="40" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     🎯 Contributions: <tspan fill="#58a6ff" font-weight="bold">%d</tspan>
   </text>
-  <text x="50" y="105" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
+  <text x="50" y="65" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     💻 Commits: <tspan fill="#58a6ff" font-weight="bold">%d</tspan>
   </text>
-  <text x="50" y="130" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
+  <text x="50" y="90" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     🔀 PRs: <tspan fill="#58a6ff" font-weight="bold">%d</tspan>
   </text>
-  <text x="530" y="80" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
+  <text x="530" y="40" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     📦 Repos: <tspan fill="#58a6ff" font-weight="bold">%d</tspan>
   </text>
-  <text x="530" y="105" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
+  <text x="530" y="65" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     ⭐ Stars: <tspan fill="#58a6ff" font-weight="bold">%d</tspan>
   </text>
-  <text x="530" y="130" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
+  <text x="530" y="90" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     🍴 Forks: <tspan fill="#58a6ff" font-weight="bold">%d</tspan>
   </text>`,
 		cc.ContributionCalendar.TotalContributions,
@@ -114,15 +114,15 @@ func GenerateSVG(stats *UserStats, languages []LanguageStat) string {
 
 	sb.WriteString(`
   
-  <line x1="50" y1="160" x2="950" y2="160" stroke="#30363d" stroke-width="1"/>
+  <line x1="50" y1="120" x2="950" y2="120" stroke="#30363d" stroke-width="1"/>
   
-  <text x="50" y="185" fill="#8b949e" font-size="14" font-weight="bold" font-family="Arial, sans-serif">
+  <text x="50" y="145" fill="#8b949e" font-size="14" font-weight="bold" font-family="Arial, sans-serif">
     TOP LANGUAGES
   </text>`)
 
 	leftColumnX := 50
 	rightColumnX := 530
-	startY := 205
+	startY := 165
 	rowHeight := 18
 
 	for i, lang := range languages {
