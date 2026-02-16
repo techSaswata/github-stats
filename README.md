@@ -2,7 +2,7 @@
 
 Automatically generate and display your GitHub statistics as a beautiful SVG badge.
 
-![GitHub Stats](https://github.com/techSaswata/github-stats/blob/main/stats.svg)
+![GitHub Stats](https://raw.githubusercontent.com/techSaswata/github-stats/main/stats.svg?v=2)
 
 ## ✨ Features
 
