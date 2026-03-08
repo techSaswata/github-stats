@@ -9,13 +9,13 @@
   <rect width="1000" height="320" fill="#0d1117" rx="10"/>
   
   <text x="50" y="40" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
-    🎯 Contributions: <tspan fill="#58a6ff" font-weight="bold">1481</tspan>
+    🎯 Contributions: <tspan fill="#58a6ff" font-weight="bold">1469</tspan>
   </text>
   <text x="50" y="65" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
-    💻 Commits: <tspan fill="#58a6ff" font-weight="bold">663</tspan>
+    💻 Commits: <tspan fill="#58a6ff" font-weight="bold">655</tspan>
   </text>
   <text x="50" y="90" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
-    🔀 PRs: <tspan fill="#58a6ff" font-weight="bold">27</tspan>
+    🔀 PRs: <tspan fill="#58a6ff" font-weight="bold">20</tspan>
   </text>
   <text x="530" y="40" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     📦 Repos: <tspan fill="#58a6ff" font-weight="bold">59</tspan>
