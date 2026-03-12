@@ -1,16 +1,16 @@
 {
   "User": {
     "ContributionsCollection": {
-      "TotalCommitContributions": 659,
+      "TotalCommitContributions": 661,
       "TotalIssueContributions": 7,
       "TotalPullRequestContributions": 20,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 1490
+        "TotalContributions": 1494
       }
     },
     "Repositories": {
-      "TotalCount": 60,
+      "TotalCount": 61,
       "Nodes": [
         {
           "StargazerCount": 0,
@@ -883,7 +883,7 @@
           "Languages": {
             "Edges": [
               {
-                "Size": 115343,
+                "Size": 118124,
                 "Node": {
                   "Name": "Java",
                   "Color": "#b07219"
@@ -1912,6 +1912,21 @@
                 "Node": {
                   "Name": "PLpgSQL",
                   "Color": "#336790"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "StargazerCount": 0,
+          "ForkCount": 0,
+          "Languages": {
+            "Edges": [
+              {
+                "Size": 60895,
+                "Node": {
+                  "Name": "Jupyter Notebook",
+                  "Color": "#DA5B0B"
                 }
               }
             ]

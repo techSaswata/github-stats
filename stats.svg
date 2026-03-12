@@ -9,16 +9,16 @@
   <rect width="1000" height="320" fill="#0d1117" rx="10"/>
   
   <text x="50" y="40" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
-    🎯 Contributions: <tspan fill="#58a6ff" font-weight="bold">1490</tspan>
+    🎯 Contributions: <tspan fill="#58a6ff" font-weight="bold">1494</tspan>
   </text>
   <text x="50" y="65" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
-    💻 Commits: <tspan fill="#58a6ff" font-weight="bold">659</tspan>
+    💻 Commits: <tspan fill="#58a6ff" font-weight="bold">661</tspan>
   </text>
   <text x="50" y="90" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     🔀 PRs: <tspan fill="#58a6ff" font-weight="bold">20</tspan>
   </text>
   <text x="530" y="40" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
-    📦 Repos: <tspan fill="#58a6ff" font-weight="bold">60</tspan>
+    📦 Repos: <tspan fill="#58a6ff" font-weight="bold">61</tspan>
   </text>
   <text x="530" y="65" fill="#c9d1d9" font-size="15" font-family="Arial, sans-serif">
     ⭐ Stars: <tspan fill="#58a6ff" font-weight="bold">20</tspan>
@@ -33,16 +33,16 @@
     TOP LANGUAGES
   </text>
   <text x="50" y="165" fill="#c9d1d9" font-size="12" font-family="monospace">TypeScript</text>
-  <rect x="165" y="155" width="64.9" height="12" fill="#3178c6" rx="2"/>
-  <text x="355" y="165" fill="#8b949e" font-size="11" font-family="monospace">36.1%</text>
+  <rect x="165" y="155" width="64.8" height="12" fill="#3178c6" rx="2"/>
+  <text x="355" y="165" fill="#8b949e" font-size="11" font-family="monospace">36.0%</text>
   <text x="50" y="183" fill="#c9d1d9" font-size="12" font-family="monospace">Java</text>
   <rect x="165" y="173" width="46.9" height="12" fill="#b07219" rx="2"/>
-  <text x="355" y="183" fill="#8b949e" font-size="11" font-family="monospace">26.1%</text>
+  <text x="355" y="183" fill="#8b949e" font-size="11" font-family="monospace">26.0%</text>
   <text x="50" y="201" fill="#c9d1d9" font-size="12" font-family="monospace">Go</text>
   <rect x="165" y="191" width="26.6" height="12" fill="#00ADD8" rx="2"/>
   <text x="355" y="201" fill="#8b949e" font-size="11" font-family="monospace">14.8%</text>
   <text x="50" y="219" fill="#c9d1d9" font-size="12" font-family="monospace">JavaScript</text>
-  <rect x="165" y="209" width="20.9" height="12" fill="#f1e05a" rx="2"/>
+  <rect x="165" y="209" width="20.8" height="12" fill="#f1e05a" rx="2"/>
   <text x="355" y="219" fill="#8b949e" font-size="11" font-family="monospace">11.6%</text>
   <text x="50" y="237" fill="#c9d1d9" font-size="12" font-family="monospace">Python</text>
   <rect x="165" y="227" width="14.0" height="12" fill="#3572A5" rx="2"/>
@@ -59,13 +59,13 @@
   <text x="530" y="201" fill="#c9d1d9" font-size="12" font-family="monospace">Swift</text>
   <rect x="645" y="191" width="5.0" height="12" fill="#F05138" rx="2"/>
   <text x="835" y="201" fill="#8b949e" font-size="11" font-family="monospace">0.3%</text>
-  <text x="530" y="219" fill="#c9d1d9" font-size="12" font-family="monospace">Shell</text>
-  <rect x="645" y="209" width="5.0" height="12" fill="#89e051" rx="2"/>
-  <text x="835" y="219" fill="#8b949e" font-size="11" font-family="monospace">0.1%</text>
-  <text x="530" y="237" fill="#c9d1d9" font-size="12" font-family="monospace">SCSS</text>
-  <rect x="645" y="227" width="5.0" height="12" fill="#c6538c" rx="2"/>
+  <text x="530" y="219" fill="#c9d1d9" font-size="12" font-family="monospace">Jupyter Not…</text>
+  <rect x="645" y="209" width="5.0" height="12" fill="#DA5B0B" rx="2"/>
+  <text x="835" y="219" fill="#8b949e" font-size="11" font-family="monospace">0.2%</text>
+  <text x="530" y="237" fill="#c9d1d9" font-size="12" font-family="monospace">Shell</text>
+  <rect x="645" y="227" width="5.0" height="12" fill="#89e051" rx="2"/>
   <text x="835" y="237" fill="#8b949e" font-size="11" font-family="monospace">0.1%</text>
-  <text x="530" y="255" fill="#c9d1d9" font-size="12" font-family="monospace">Rust</text>
-  <rect x="645" y="245" width="5.0" height="12" fill="#dea584" rx="2"/>
+  <text x="530" y="255" fill="#c9d1d9" font-size="12" font-family="monospace">SCSS</text>
+  <rect x="645" y="245" width="5.0" height="12" fill="#c6538c" rx="2"/>
   <text x="835" y="255" fill="#8b949e" font-size="11" font-family="monospace">0.1%</text>
 </svg>
