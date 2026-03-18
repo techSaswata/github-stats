@@ -6,11 +6,11 @@
       "TotalPullRequestContributions": 20,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 1511
+        "TotalContributions": 1520
       }
     },
     "Repositories": {
-      "TotalCount": 61,
+      "TotalCount": 60,
       "Nodes": [
         {
           "StargazerCount": 0,
@@ -883,7 +883,7 @@
           "Languages": {
             "Edges": [
               {
-                "Size": 124117,
+                "Size": 124829,
                 "Node": {
                   "Name": "Java",
                   "Color": "#b07219"
@@ -1876,42 +1876,6 @@
                 "Node": {
                   "Name": "HTML",
                   "Color": "#e34c26"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "StargazerCount": 0,
-          "ForkCount": 0,
-          "Languages": {
-            "Edges": [
-              {
-                "Size": 559,
-                "Node": {
-                  "Name": "JavaScript",
-                  "Color": "#f1e05a"
-                }
-              },
-              {
-                "Size": 280409,
-                "Node": {
-                  "Name": "TypeScript",
-                  "Color": "#3178c6"
-                }
-              },
-              {
-                "Size": 488,
-                "Node": {
-                  "Name": "CSS",
-                  "Color": "#663399"
-                }
-              },
-              {
-                "Size": 9478,
-                "Node": {
-                  "Name": "PLpgSQL",
-                  "Color": "#336790"
                 }
               }
             ]
