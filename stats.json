@@ -1,12 +1,12 @@
 {
   "User": {
     "ContributionsCollection": {
-      "TotalCommitContributions": 660,
+      "TotalCommitContributions": 717,
       "TotalIssueContributions": 7,
-      "TotalPullRequestContributions": 19,
+      "TotalPullRequestContributions": 31,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 1704
+        "TotalContributions": 1699
       }
     },
     "Repositories": {
@@ -883,7 +883,7 @@
           "Languages": {
             "Edges": [
               {
-                "Size": 150436,
+                "Size": 152208,
                 "Node": {
                   "Name": "Java",
                   "Color": "#b07219"
@@ -1917,28 +1917,6 @@
           "Languages": {
             "Edges": [
               {
-                "Size": 88705,
-                "Node": {
-                  "Name": "Python",
-                  "Color": "#3572A5"
-                }
-              },
-              {
-                "Size": 765609,
-                "Node": {
-                  "Name": "Rust",
-                  "Color": "#dea584"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "StargazerCount": 0,
-          "ForkCount": 0,
-          "Languages": {
-            "Edges": [
-              {
                 "Size": 18156,
                 "Node": {
                   "Name": "Shell",
@@ -1981,6 +1959,49 @@
           "ForkCount": 0,
           "Languages": {
             "Edges": []
+          }
+        },
+        {
+          "StargazerCount": 0,
+          "ForkCount": 0,
+          "Languages": {
+            "Edges": [
+              {
+                "Size": 136412,
+                "Node": {
+                  "Name": "Shell",
+                  "Color": "#89e051"
+                }
+              },
+              {
+                "Size": 5757645,
+                "Node": {
+                  "Name": "JavaScript",
+                  "Color": "#f1e05a"
+                }
+              },
+              {
+                "Size": 116471,
+                "Node": {
+                  "Name": "Python",
+                  "Color": "#3572A5"
+                }
+              },
+              {
+                "Size": 7877185,
+                "Node": {
+                  "Name": "TypeScript",
+                  "Color": "#3178c6"
+                }
+              },
+              {
+                "Size": 2038,
+                "Node": {
+                  "Name": "Dockerfile",
+                  "Color": "#384d54"
+                }
+              }
+            ]
           }
         }
       ]
