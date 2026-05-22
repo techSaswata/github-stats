@@ -1,12 +1,12 @@
 {
   "User": {
     "ContributionsCollection": {
-      "TotalCommitContributions": 731,
+      "TotalCommitContributions": 740,
       "TotalIssueContributions": 6,
       "TotalPullRequestContributions": 30,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 1949
+        "TotalContributions": 1976
       }
     },
     "Repositories": {
@@ -883,7 +883,7 @@
           "Languages": {
             "Edges": [
               {
-                "Size": 196851,
+                "Size": 197616,
                 "Node": {
                   "Name": "Java",
                   "Color": "#b07219"
@@ -1503,42 +1503,6 @@
           "Languages": {
             "Edges": [
               {
-                "Size": 1805,
-                "Node": {
-                  "Name": "Shell",
-                  "Color": "#89e051"
-                }
-              },
-              {
-                "Size": 232,
-                "Node": {
-                  "Name": "JavaScript",
-                  "Color": "#f1e05a"
-                }
-              },
-              {
-                "Size": 269373,
-                "Node": {
-                  "Name": "TypeScript",
-                  "Color": "#3178c6"
-                }
-              },
-              {
-                "Size": 5436,
-                "Node": {
-                  "Name": "CSS",
-                  "Color": "#663399"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "StargazerCount": 0,
-          "ForkCount": 1,
-          "Languages": {
-            "Edges": [
-              {
                 "Size": 82788,
                 "Node": {
                   "Name": "TypeScript",
@@ -1958,7 +1922,36 @@
           "StargazerCount": 0,
           "ForkCount": 0,
           "Languages": {
-            "Edges": []
+            "Edges": [
+              {
+                "Size": 559,
+                "Node": {
+                  "Name": "JavaScript",
+                  "Color": "#f1e05a"
+                }
+              },
+              {
+                "Size": 281466,
+                "Node": {
+                  "Name": "TypeScript",
+                  "Color": "#3178c6"
+                }
+              },
+              {
+                "Size": 488,
+                "Node": {
+                  "Name": "CSS",
+                  "Color": "#663399"
+                }
+              },
+              {
+                "Size": 9478,
+                "Node": {
+                  "Name": "PLpgSQL",
+                  "Color": "#336790"
+                }
+              }
+            ]
           }
         },
         {
@@ -2115,6 +2108,21 @@
                 "Node": {
                   "Name": "CSS",
                   "Color": "#663399"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "StargazerCount": 0,
+          "ForkCount": 0,
+          "Languages": {
+            "Edges": [
+              {
+                "Size": 471181,
+                "Node": {
+                  "Name": "Kotlin",
+                  "Color": "#A97BFF"
                 }
               }
             ]
