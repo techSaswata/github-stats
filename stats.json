@@ -1,12 +1,12 @@
 {
   "User": {
     "ContributionsCollection": {
-      "TotalCommitContributions": 767,
+      "TotalCommitContributions": 773,
       "TotalIssueContributions": 6,
       "TotalPullRequestContributions": 30,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 2480
+        "TotalContributions": 2486
       }
     },
     "Repositories": {
@@ -2310,49 +2310,6 @@
         },
         {
           "StargazerCount": 0,
-          "ForkCount": 0,
-          "Languages": {
-            "Edges": [
-              {
-                "Size": 762,
-                "Node": {
-                  "Name": "Shell",
-                  "Color": "#89e051"
-                }
-              },
-              {
-                "Size": 51642,
-                "Node": {
-                  "Name": "JavaScript",
-                  "Color": "#f1e05a"
-                }
-              },
-              {
-                "Size": 105549,
-                "Node": {
-                  "Name": "Python",
-                  "Color": "#3572A5"
-                }
-              },
-              {
-                "Size": 18078,
-                "Node": {
-                  "Name": "CSS",
-                  "Color": "#663399"
-                }
-              },
-              {
-                "Size": 579,
-                "Node": {
-                  "Name": "HTML",
-                  "Color": "#e34c26"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "StargazerCount": 0,
           "ForkCount": 1,
           "Languages": {
             "Edges": [
@@ -2425,6 +2382,56 @@
                 "Node": {
                   "Name": "CSS",
                   "Color": "#663399"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "StargazerCount": 0,
+          "ForkCount": 0,
+          "Languages": {
+            "Edges": [
+              {
+                "Size": 7429,
+                "Node": {
+                  "Name": "Shell",
+                  "Color": "#89e051"
+                }
+              },
+              {
+                "Size": 286600,
+                "Node": {
+                  "Name": "JavaScript",
+                  "Color": "#f1e05a"
+                }
+              },
+              {
+                "Size": 391618,
+                "Node": {
+                  "Name": "Python",
+                  "Color": "#3572A5"
+                }
+              },
+              {
+                "Size": 70112,
+                "Node": {
+                  "Name": "CSS",
+                  "Color": "#663399"
+                }
+              },
+              {
+                "Size": 579,
+                "Node": {
+                  "Name": "HTML",
+                  "Color": "#e34c26"
+                }
+              },
+              {
+                "Size": 8226,
+                "Node": {
+                  "Name": "Jupyter Notebook",
+                  "Color": "#DA5B0B"
                 }
               }
             ]
