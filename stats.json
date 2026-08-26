@@ -6,7 +6,7 @@
       "TotalPullRequestContributions": 30,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 2497
+        "TotalContributions": 2498
       }
     },
     "Repositories": {
@@ -729,7 +729,7 @@
                 "Size": 116184,
                 "Node": {
                   "Name": "C#",
-                  "Color": "#178600"
+                  "Color": "#7355dd"
                 }
               },
               {
