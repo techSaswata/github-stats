@@ -1,12 +1,12 @@
 {
   "User": {
     "ContributionsCollection": {
-      "TotalCommitContributions": 744,
+      "TotalCommitContributions": 775,
       "TotalIssueContributions": 6,
       "TotalPullRequestContributions": 30,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 2748
+        "TotalContributions": 2784
       }
     },
     "Repositories": {
@@ -2450,21 +2450,21 @@
           "Languages": {
             "Edges": [
               {
-                "Size": 157087,
+                "Size": 301011,
                 "Node": {
                   "Name": "Shell",
                   "Color": "#89e051"
                 }
               },
               {
-                "Size": 7735,
+                "Size": 10689,
                 "Node": {
                   "Name": "Dockerfile",
                   "Color": "#384d54"
                 }
               },
               {
-                "Size": 4090,
+                "Size": 16146,
                 "Node": {
                   "Name": "Python",
                   "Color": "#3572A5"
@@ -2503,6 +2503,20 @@
                 "Node": {
                   "Name": "Go",
                   "Color": "#00ADD8"
+                }
+              },
+              {
+                "Size": 3551,
+                "Node": {
+                  "Name": "Go Template",
+                  "Color": "#00ADD8"
+                }
+              },
+              {
+                "Size": 23162,
+                "Node": {
+                  "Name": "HCL",
+                  "Color": "#844FBA"
                 }
               }
             ]
