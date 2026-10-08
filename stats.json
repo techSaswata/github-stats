@@ -1,12 +1,12 @@
 {
   "User": {
     "ContributionsCollection": {
-      "TotalCommitContributions": 775,
+      "TotalCommitContributions": 788,
       "TotalIssueContributions": 6,
       "TotalPullRequestContributions": 30,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 2784
+        "TotalContributions": 2799
       }
     },
     "Repositories": {
@@ -2450,42 +2450,42 @@
           "Languages": {
             "Edges": [
               {
-                "Size": 301011,
+                "Size": 347623,
                 "Node": {
                   "Name": "Shell",
                   "Color": "#89e051"
                 }
               },
               {
-                "Size": 10689,
+                "Size": 14357,
                 "Node": {
                   "Name": "Dockerfile",
                   "Color": "#384d54"
                 }
               },
               {
-                "Size": 16146,
+                "Size": 49115,
                 "Node": {
                   "Name": "Python",
                   "Color": "#3572A5"
                 }
               },
               {
-                "Size": 6186,
+                "Size": 6510,
                 "Node": {
                   "Name": "HTML",
                   "Color": "#e34c26"
                 }
               },
               {
-                "Size": 4533,
+                "Size": 17118,
                 "Node": {
                   "Name": "JavaScript",
                   "Color": "#f1e05a"
                 }
               },
               {
-                "Size": 1858,
+                "Size": 8466,
                 "Node": {
                   "Name": "CSS",
                   "Color": "#663399"
@@ -2506,14 +2506,14 @@
                 }
               },
               {
-                "Size": 3551,
+                "Size": 5821,
                 "Node": {
                   "Name": "Go Template",
                   "Color": "#00ADD8"
                 }
               },
               {
-                "Size": 23162,
+                "Size": 41540,
                 "Node": {
                   "Name": "HCL",
                   "Color": "#844FBA"
