@@ -1,12 +1,12 @@
 {
   "User": {
     "ContributionsCollection": {
-      "TotalCommitContributions": 793,
-      "TotalIssueContributions": 6,
-      "TotalPullRequestContributions": 30,
+      "TotalCommitContributions": 780,
+      "TotalIssueContributions": 0,
+      "TotalPullRequestContributions": 24,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 3009
+        "TotalContributions": 2989
       }
     },
     "Repositories": {
@@ -2478,7 +2478,7 @@
                 }
               },
               {
-                "Size": 57929,
+                "Size": 17538,
                 "Node": {
                   "Name": "JavaScript",
                   "Color": "#f1e05a"
