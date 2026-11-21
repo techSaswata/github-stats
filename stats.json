@@ -1,16 +1,16 @@
 {
   "User": {
     "ContributionsCollection": {
-      "TotalCommitContributions": 722,
+      "TotalCommitContributions": 695,
       "TotalIssueContributions": 0,
       "TotalPullRequestContributions": 24,
       "TotalPullRequestReviewContributions": 0,
       "ContributionCalendar": {
-        "TotalContributions": 3009
+        "TotalContributions": 2982
       }
     },
     "Repositories": {
-      "TotalCount": 77,
+      "TotalCount": 78,
       "Nodes": [
         {
           "StargazerCount": 0,
@@ -2517,6 +2517,21 @@
                 "Node": {
                   "Name": "HCL",
                   "Color": "#844FBA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "StargazerCount": 0,
+          "ForkCount": 0,
+          "Languages": {
+            "Edges": [
+              {
+                "Size": 597,
+                "Node": {
+                  "Name": "HTML",
+                  "Color": "#e34c26"
                 }
               }
             ]
